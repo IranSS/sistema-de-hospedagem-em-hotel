@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "frbnGEEUB0UlOoYH6bdJcmzhXhKqXM0qze19M2KBQGUec7R14yRT9DbYYpBUyG8wQMD2V5J66+4Ib66+yy8w8w==",
+  "success": true,
+  "projectFilePath": "E:\\Workspace\\vsc-workspace\\POO\\trilha-net-explorando-desafio-main\\DesafioProjetoHospedagem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Iran\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Iran\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Iran\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Iran\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
