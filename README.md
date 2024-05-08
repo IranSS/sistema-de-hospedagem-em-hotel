@@ -1,5 +1,5 @@
 ## Sobre o Projeto
-Este projeto consiste na construção de um sistema de hospedagem para realizar reservas em um hotel. O sistema será desenvolvido em Python e utilizará as classes Pessoa, Suíte e Reserva para representar os hóspedes, as suítes disponíveis e as reservas feitas, respectivamente. O principal objetivo do sistema é calcular corretamente os valores das reservas, considerando a quantidade de hóspedes e o valor da diária, com a aplicação de um desconto de 10% para reservas com duração superior a 10 dias.
+Este projeto consiste na construção de um sistema de hospedagem para realizar reservas em um hotel. O sistema será desenvolvido em C# e utilizará as classes Pessoa, Suíte e Reserva para representar os hóspedes, as suítes disponíveis e as reservas feitas, respectivamente. O principal objetivo do sistema é calcular corretamente os valores das reservas, considerando a quantidade de hóspedes e o valor da diária, com a aplicação de um desconto de 10% para reservas com duração superior a 10 dias.
 
 ## Classes Utilizadas
 
